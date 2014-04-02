@@ -17,17 +17,18 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.bitjin.bitmedia</string>
+				<string>com.wukong.remote</string>
 				<key>bundle-version</key>
-				<string>1.0.116</string>
+				<string>0.6</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>头条金融</string>
+				<string>悟空遥控</string>
 			</dict>
 		</dict>
 	</array>
 </dict>
 </plist>
+
 
 
