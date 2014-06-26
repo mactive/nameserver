@@ -17,9 +17,9 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.kkche.merchant</string>
+				<string>com.kanche.merchant</string>
 				<key>bundle-version</key>
-				<string>0.3</string>
+				<string>0.4</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
