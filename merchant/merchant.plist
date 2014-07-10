@@ -19,11 +19,11 @@
 				<key>bundle-identifier</key>
 				<string>com.kanche.merchant</string>
 				<key>bundle-version</key>
-				<string>0.4</string>
+				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>发车宝</string>
+				<string>看车通</string>
 			</dict>
 		</dict>
 	</array>
