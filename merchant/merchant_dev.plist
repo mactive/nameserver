@@ -17,7 +17,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.kanche.merchant</string>
+				<string>com.kanche.merchant.ios8fix</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
